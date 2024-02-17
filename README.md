@@ -21,7 +21,7 @@
 
 To run this project, install it locally using node and the file local:
 
-> $ cd ../folder
-> $ node script.js
+    $ cd ../folder
+    $ node script.js
 
 
