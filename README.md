@@ -1,3 +1,3 @@
-*Message-Generator Using javascript*
+*Message-Generator Using javascript
 
 
